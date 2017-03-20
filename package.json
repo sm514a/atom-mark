@@ -10,6 +10,8 @@
       "mark:clear-mark",
       "mark:goto-mark",
       "mark:select-to-mark",
+      "mark:select-to-mark-and-copy",
+      "mark:select-to-mark-and-cut",
       "mark:swap"
     ]
   },
