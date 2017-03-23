@@ -6,6 +6,7 @@
   "description": "Provides a buffer mark supporting select-to-mark and goto-mark",
   "activationCommands": {
     "atom-text-editor": [
+      "mark:set-mark",
       "mark:toggle",
       "mark:clear-mark",
       "mark:goto-mark",
